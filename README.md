@@ -29,11 +29,11 @@ Contoh penggunaan:
 
 ```python
 mahasiswa = Mahasiswa()
-mahasiswa.tambah("Udin Stark")
-mahasiswa.tambah("Praroro Julianto")
+mahasiswa.tambah("Ahmad Ujang")
+mahasiswa.tambah("Agustian Saifudin")
 mahasiswa.tampilkan()
-mahasiswa.hapus("Praroro Julianto")
-mahasiswa.ubah("Udin Stark", "Suneo Junaedi")
+mahasiswa.hapus("Agustian Saifudin")
+mahasiswa.ubah("Ahmad Ujang", "Zanuar Tatang")
 mahasiswa.tampilkan()
 ```
 
