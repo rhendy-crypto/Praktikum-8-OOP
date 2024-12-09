@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Tugas praktikum ini bertujuan untuk membuat program sederhana menggunakan class dan metode dalam Python.
+Tugas praktikum ini mempunyai tujuan untuk membuat program sederhana dengan menggunakan class dan metode dalam Python.
 
 ## Diagram class
 
@@ -10,7 +10,7 @@ Tugas praktikum ini bertujuan untuk membuat program sederhana menggunakan class 
 
 ## Flowchart
 
-![](lib/img/class.png)
+![WhatsApp Image 2024-12-09 at 23 07 06_5d3b7ebc](https://github.com/user-attachments/assets/6c08e2cf-05c9-40c6-88a1-9fb73dd1d456)
 
 ## Fitur
 
@@ -27,7 +27,7 @@ Tugas praktikum ini bertujuan untuk membuat program sederhana menggunakan class 
 
 Contoh penggunaan:
 
-python
+```python
 mahasiswa = Mahasiswa()
 mahasiswa.tambah("Udin Stark")
 mahasiswa.tambah("Praroro Julianto")
@@ -35,3 +35,7 @@ mahasiswa.tampilkan()
 mahasiswa.hapus("Praroro Julianto")
 mahasiswa.ubah("Udin Stark", "Suneo Junaedi")
 mahasiswa.tampilkan()
+```
+
+## © Rhendy Zhaky Alvian
+email: rhendyzhakyalvian@gmail.com
